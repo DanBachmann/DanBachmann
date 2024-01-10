@@ -1,23 +1,6 @@
-### Hi there 👋
-
-<!--
-**DanBachmann/DanBachmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <h1 align="center">Hello, I'm Dan 👋</h1>
-<h3 align="center">Versatile Back End Developer &amp; Technical Co-ordinator</h3>
+<h3 align="center">Versatile Back End Developer &amp; Technical Co-ordinator
+<br/>based in London, UK</h3>
 
 
 ### 🚀 My Journey
@@ -34,8 +17,9 @@ With a solid software development/programming career, I moved into technical man
 
 
 ### 📈 Continuous Learning
-
-I am committed to continuous learning and updating my skills. I am currently completing a Data Engineering course with AiCore and have a full stack/front-end course planned for later in the year. I am also interested in getting back into a personal robotics project and CGI for use in motion pictures. I am always open to collaborating on related projects or discussing new technologies and ideas.
+Currently I am completing a Data Engineering course with AiCore and have a full stack/front-end course planned for later in the year.
+Other interests are getting back into a personal robotics project and CGI for use in motion pictures.
+I am open to collaborating on related projects or discussing technologies and ideas!
 
 ---
 <h3 align="left">Reach out to me: </h3>
