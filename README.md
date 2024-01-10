@@ -22,4 +22,4 @@ I am open to collaborating on related projects or discussing technologies and id
 
 ---
 Reach out to me: 
-[![Linkedin Badge](https://img.shields.io/badge/DanBachmann--blue?style=flat&logo=linkedin&labelColor=0e76a8&logoColor=blue&color=white)](https://www.linkedin.com/in/danbachmann/) [![Mail Badge](https://img.shields.io/badge/-tech@danbachmann.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tech@danbachmann.com)
+[![Linkedin Badge](https://img.shields.io/badge/DanBachmann--blue?style=flat&logo=linkedin&labelColor=0e76a8&logoColor=white&color=white)](https://www.linkedin.com/in/danbachmann/) [![Mail Badge](https://img.shields.io/badge/-tech@danbachmann.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tech@danbachmann.com)
