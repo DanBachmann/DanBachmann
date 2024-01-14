@@ -16,8 +16,8 @@ With a solid software development/programming career, I moved into technical man
 - **Concepts:** Object-Oriented Programming, RESTful API Development, Agile Methodologies
 
 ### 📈 Continuous Learning
-Currently I am completing a Data Engineering course with AiCore and have a full stack/front-end course planned for later in the year.
-Other interests are getting back into a personal robotics project and CGI for use in motion pictures.
+I am in the process of completing a Data Engineering course with AiCore and have a full stack/front-end course planned for later in the year.
+Other technical interests are getting back into a personal robotics project and CGI for use in motion pictures.
 I am open to collaborating on related projects or discussing technologies and ideas!
 
 ---
